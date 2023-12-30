@@ -1,2 +1,2 @@
 - use pyinstaller to make it a exe https://pypi.org/project/pyinstaller/
-- i recomend using the command pyinstaller `main.py --onefile --noconsole --icon=NONE`
+- i recomend using the command `pyinstaller main.py --onefile --noconsole --icon=NONE`
